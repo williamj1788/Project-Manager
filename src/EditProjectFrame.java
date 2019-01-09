@@ -39,6 +39,7 @@ JPanel panel = new JPanel(new GridBagLayout());
 		p.put("text.today", "Today");
 		p.put("text.month", "Month");
 		p.put("text.year", "Year");
+		System.out.println("TESTING TESTING ONE TWO THREE");
 		
 		
 		JDatePanelImpl datePanel = new JDatePanelImpl(model, p);
