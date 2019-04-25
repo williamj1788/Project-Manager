@@ -1,4 +1,5 @@
 # Project-Manager
+<<<<<<< HEAD
 
 ## Description
 
@@ -22,3 +23,7 @@
 ### Main
 
 ![Main page](./Main.png)
+=======
+This Program is used to help me manage the projects that i am working on. currently a work in progress. made with java swing
+Work in Progress
+>>>>>>> a8160a235663cd101a01cb8413ae8ba0e9f7d50e
